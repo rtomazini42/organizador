@@ -29,7 +29,7 @@ mv readme.md Organizador/
 mv  *.mp3 *.ogg *.flac *.acc *.wma *.alac *.aiff *.pcm *.wav Audio/ 
 mv  *.deb *.app *.iso *.exe  Executavel/
 mv  *.epub *.txt *.pdf  Textos/
-mv  *.jpg *.png *.bmp *.jpeg *.svg .gif Imagens/
+mv  *.jpg *.png *.bmp *.jpeg *.svg *.gif Imagens/
 mv  *.mp4 *.flv *.mpeg *.webm *.mkv *.vob *.ogv *.avi *.MTS *.mov *.rm *.rmvb *.viv *.amv *.mpg *.m4p *.m4v *.mpe *.m2v *.svi *.3gp *.3g2 Video/
 mv  *.torrent *.magnet Torrent/
 mv  *.py *.sh *.cpp *.js *.rs *rslib Scripts/
