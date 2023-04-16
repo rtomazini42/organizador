@@ -29,24 +29,24 @@ O organizador sera guardado na pasta Organizador ao final do processo, para que 
 
 
 # Versão Windows
-    A versão Windows foi feita e testada em Windows 10 em 2023 com Python 3.9, funcionou aparentemente bem, mas não garanto seu funcionamento em todos os casos.
-    Para rodar o script "organizadorWindows.py" siga os seguintes passos:
+A versão Windows foi feita e testada em Windows 10 em 2023 com Python 3.9, funcionou aparentemente bem, mas não garanto seu funcionamento em todos os casos.
+Para rodar o script "organizadorWindows.py" siga os seguintes passos:
 
-    * Abra o terminal do Windows. Para isso, clique no botão "Iniciar" e digite "cmd" na barra de pesquisa.
+* Abra o terminal do Windows. Para isso, clique no botão "Iniciar" e digite "cmd" na barra de pesquisa.
 
-    * Navegue até o diretório onde o arquivo "organizadorWindows.py" está localizado. Para isso, utilize o comando "cd" seguido do caminho completo do diretório. Exemplo: cd C:\Users\seu_usuario\Downloads
+* Navegue até o diretório onde o arquivo "organizadorWindows.py" está localizado. Para isso, utilize o comando "cd" seguido do caminho completo do diretório. Exemplo: cd C:\Users\seu_usuario\Downloads
 
-    * Digite "python organizadorWindows.py" e pressione enter para executar o script.
+* Digite "python organizadorWindows.py" e pressione enter para executar o script.
 
-    * O script irá perguntar se você quer organizar os arquivos na pasta atual. Digite "1" para sim ou "2" para não.
+* O script irá perguntar se você quer organizar os arquivos na pasta atual. Digite "1" para sim ou "2" para não.
 
-    * Se você escolher "1", o script irá criar as pastas necessárias e mover os arquivos para suas respectivas pastas.
+* Se você escolher "1", o script irá criar as pastas necessárias e mover os arquivos para suas respectivas pastas.
 
-    * O script irá perguntar se você quer deletar as pastas e arquivos vazios. Digite "1" para sim ou "2" para não.
+* O script irá perguntar se você quer deletar as pastas e arquivos vazios. Digite "1" para sim ou "2" para não.
 
-    * Se você escolher "1", o script irá deletar as pastas e arquivos vazios.
+* Se você escolher "1", o script irá deletar as pastas e arquivos vazios.
 
-    * Quando o script terminar de executar, ele irá exibir a mensagem "Feito" e "Obrigado por usar!".
+* Quando o script terminar de executar, ele irá exibir a mensagem "Feito" e "Obrigado por usar!".
 
 
 #### Testado em Windows 10 2023
